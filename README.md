@@ -67,7 +67,7 @@ Au-delà de la stratégie globale, j’ai réalisé un carnet de détails comple
 * **Angles et Tableaux :** Pour les façades ventilées, j'ai précisé le calepinage de l'isolant au droit des angles saillants et des retours de tableaux, avec une attention particulière sur l'étanchéité à l'air derrière le bardage composite.
 
 <p align="center">
-  <img src="images/details-techniques-sae5.png" width="80%" alt="Détails constructifs des points singuliers">
+  <img width="1538" height="1087" alt="details-techniques-sae5 png" src="https://github.com/user-attachments/assets/f4163e21-c45c-428d-baf8-0442eb7aadc4" />
   <br><em>Figure : Mes détails d'exécution pour le traitement des acrotères et des seuils de balcons</em>
 </p>
 
