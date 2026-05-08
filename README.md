@@ -78,6 +78,36 @@ Au-delà de la stratégie globale, j’ai réalisé un carnet de détails comple
   <img width="1538" height="1088" alt="Capture d&#39;écran 2026-05-08 223024" src="https://github.com/user-attachments/assets/e0fc9c6c-d26a-428d-baac-c9eb0cab059f" />
   <br><em>Figure : Mes détails d'exécution pour le traitement des acrotères et des angles</em>
 </p>
+
+## Thème 2 : Maîtrise des Fluides et Analyse Structurelle
+Dans cette section, j'ai assuré la cohérence entre le confort thermique, la sécurité sanitaire et la stabilité mécanique de l'ouvrage.
+
+* **Dimensionnement aéraulique (VMC) :** J'ai calculé les débits réglementaires pièce par pièce pour garantir une qualité d'air optimale tout en limitant les pertes thermiques par renouvellement d'air. J'ai procédé au choix du groupe d'extraction et au tracé des réseaux en veillant à minimiser les pertes de charge acoustiques et mécaniques.
+* **Ingénierie de Structure (Béton Armé) :** J'ai réalisé une descente de charges rigoureuse pour évaluer l'impact des nouvelles surcharges sur la structure existante. Une attention particulière a été portée au ferraillage des dalles au niveau des ouvertures créées pour les balcons, assurant la pérennité structurelle après le sciage des voiles.
+* **Éclairage Technique :** En me basant sur les normes d'accessibilité et de sécurité (type ERP/Habitation), j'ai dimensionné l'éclairement des zones de circulation (lux). J'ai optimisé les puissances installées en intégrant des technologies LED et des détecteurs de présence pour réduire la facture énergétique commune.
+
+---
+
+## Thème 3 : Méthodes de Réalisation et Organisation du Chantier
+Cette partie reflète ma capacité à planifier et à sécuriser la phase opérationnelle de cette réhabilitation lourde en site occupé ou contraint.
+
+* **Logistique de Levage :** J'ai dimensionné l'engin de levage (Grue à tour) en tenant compte de la hauteur sous crochet nécessaire pour franchir la Tour Bohn et de la portée requise pour livrer les matériaux en tout point du site. J'ai dû vérifier les courbes de charges pour les éléments les plus lourds, comme les rupteurs thermiques et les dalles préfabriquées.
+* **Modélisation BIM et Plan d'Installation de Chantier (PIC) :** Sous **Revit**, j'ai modélisé l'environnement du chantier pour optimiser l'espace au sol. J'ai défini les zones de stockage, les flux de circulation des engins et l'emplacement des bases-vie pour minimiser les nuisances sonores et assurer une fluidité maximale.
+* **Phasage et Modes Opératoires :** J'ai décomposé le projet en phases chronologiques pour coordonner les différents corps d'état. J'ai rédigé des modes opératoires précis pour les tâches à haut risque, notamment la dépose sécurisée des anciens garde-corps et la mise en œuvre du bardage en terre cuite en grande hauteur.
+
+---
+
+## Thème 4 : Évaluation Environnementale et Performance Énergétique
+Pour clore l'étude, j'ai validé la pertinence de mes choix constructifs par une analyse chiffrée de la performance finale.
+
+* **Simulation Énergétique et DPE :** J'ai modélisé le bâtiment pour générer un Diagnostic de Performance Énergétique cible. Mes calculs démontrent une amélioration spectaculaire de l'étiquette énergétique, validant l'efficacité de l'isolation par l'extérieur et du traitement des ponts thermiques effectués au Thème 1.
+* **Analyse de Cycle de Vie (ACV) :** Au-delà de l'énergie, j'ai mesuré l'impact environnemental des matériaux choisis (Ic Construction) et des consommations futures (Ic Énergie). Cette approche m'a permis de vérifier que le projet s'inscrit dans les seuils de la RE2020 et favorise des matériaux à faible empreinte carbone.
+* **Analyse de Variantes :** J'ai comparé différentes solutions techniques (type d'isolant, performance des vitrages) pour trouver le meilleur compromis entre coût global, temps de retour sur investissement et confort d'été pour les usagers.
+
+---
+
+## Conclusion Professionnelle
+L'étude globale de la Tour Bohn m'a permis d'appréhender la complexité d'une rénovation thermique globale. En maîtrisant l'ensemble de la chaîne, de la modélisation technique (Thème 1 et 2) à la préparation opérationnelle (Thème 3) jusqu'à la certification environnementale (Thème 4), j'ai pu démontrer une vision transverse et experte des métiers du bâtiment durable.
 ---
 
 ## Conclusion
