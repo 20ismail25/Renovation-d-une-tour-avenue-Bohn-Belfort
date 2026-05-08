@@ -71,9 +71,13 @@ Au-delà de la stratégie globale, j’ai réalisé un carnet de détails comple
 
 <p align="center">
   <img width="1538" height="1087" alt="details-techniques-sae5 png" src="https://github.com/user-attachments/assets/f4163e21-c45c-428d-baf8-0442eb7aadc4" />
-  <br><em>Figure : Mes détails d'exécution pour le traitement des acrotères et des seuils de balcons</em>
+  <br><em>Figure : Mes détails d'exécution pour le traitement des murs et des dalles</em>
 </p>
 
+<p align="center">
+  <img width="1538" height="1088" alt="Capture d&#39;écran 2026-05-08 223024" src="https://github.com/user-attachments/assets/e0fc9c6c-d26a-428d-baac-c9eb0cab059f" />
+  <br><em>Figure : Mes détails d'exécution pour le traitement des acrotères et des angles</em>
+</p>
 ---
 
 ## Conclusion
