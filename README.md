@@ -59,6 +59,18 @@ Je porte un regard critique positif sur l'utilisation des rupteurs thermiques po
 
 Ma vision professionnelle ici est claire : l'enveloppe n'est pas qu'une barrière, c'est un système dynamique où chaque détail de jonction pèse autant que l'épaisseur de l'isolant en partie courante.
 
+### 3. Mon Carnet de Détails Techniques
+Au-delà de la stratégie globale, j’ai réalisé un carnet de détails complet pour justifier la mise en œuvre réelle sur le chantier. Chaque dessin a été conçu pour assurer la continuité de l’isolant dans les zones les plus critiques :
+
+* **Détail de l'Acrotère :** J'ai dessiné la jonction mur/toiture en intégrant la rehausse en blocs à bancher et l'isolation thermique du relevé. Mon tracé montre précisément comment l'isolant de l'acrotère vient "fermer" le pont thermique en rencontrant l'isolant de la toiture-terrasse.
+* **Seuils et Appuis :** J'ai modélisé les coupes sur les seuils de portes-fenêtres pour les nouveaux accès balcons. Mon dessin détaille l'insertion du rupteur thermique entre la dalle intérieure et la structure métallique extérieure, garantissant l'absence de "fuite" calorifique sous la menuiserie.
+* **Angles et Tableaux :** Pour les façades ventilées, j'ai précisé le calepinage de l'isolant au droit des angles saillants et des retours de tableaux, avec une attention particulière sur l'étanchéité à l'air derrière le bardage composite.
+
+<p align="center">
+  <img src="images/details-techniques-sae5.png" width="80%" alt="Détails constructifs des points singuliers">
+  <br><em>Figure : Mes détails d'exécution pour le traitement des acrotères et des seuils de balcons</em>
+</p>
+
 ---
 
 ## Conclusion
