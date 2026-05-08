@@ -55,7 +55,7 @@ Avec le recul sur mon travail, je considère que la pertinence de mes solutions 
 
 <p align="center">
    <img width="690" height="432" alt="Capture d&#39;écran 2026-05-08 221427" src="https://github.com/user-attachments/assets/07880871-853a-4c54-9b7f-4ee16ddde135" />
-   <br><em>Figure : Mes détails d'exécution pour le traitement des acrotères et des seuils de balcons</em>
+   <br><em>Figure : Modélisation pont thermique</em>
 </p>
 
 Je porte un regard critique positif sur l'utilisation des rupteurs thermiques pour les balcons IPN. C'est une solution élégante qui résout le conflit entre besoin structurel et isolation. Toutefois, j'ai conscience des limites pratiques : la précision lors de la pose de l'ossature métallique est millimétrée. Si j'avais pu pousser l'analyse encore plus loin, j'aurais exploré l'utilisation d'équerres de bardage en matériaux composites (rupture de pont thermique ponctuel) pour optimiser encore de quelques pourcentages la résistance thermique globale de la façade ventilée. 
