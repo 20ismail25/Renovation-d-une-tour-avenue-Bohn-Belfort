@@ -106,7 +106,6 @@ Pour clore l'étude, j'ai validé la pertinence de mes choix constructifs par un
 
 ---
 
-## Conclusion Professionnelle
 L'étude globale de la Tour Bohn m'a permis d'appréhender la complexité d'une rénovation thermique globale. En maîtrisant l'ensemble de la chaîne, de la modélisation technique (Thème 1 et 2) à la préparation opérationnelle (Thème 3) jusqu'à la certification environnementale (Thème 4), j'ai pu démontrer une vision transverse et experte des métiers du bâtiment durable.
 ---
 
